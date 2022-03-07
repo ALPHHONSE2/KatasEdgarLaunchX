@@ -1,0 +1,32 @@
+p{
+    color : red ;
+}
+
+li{
+    text-decoration: underline;
+}
+
+/*usar # hace alusion a un identificador los identificadores no se pueden repetir*/
+#subtitulo {
+    color: black;
+    font-size: 60px;
+}
+
+/*usar . hace alusion a una clase y el nombre de las clases se pueden repetir */
+.empiezo {
+
+    background-color: blue;
+    color: green;
+}
+
+#titulo {
+    color: red;
+    font-size: 60px;
+}
+
+/*usar . hace alusion a una clase y el nombre de las clases se pueden repetir */
+.start {
+
+    background-color: red;
+    color: black;
+}
